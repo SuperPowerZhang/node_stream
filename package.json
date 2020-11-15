@@ -1,0 +1,7 @@
+{
+  "name": "stream",
+  "version": "1.0.0",
+  "dependencies": {
+    "nodejscore": "^0.5.0"
+  }
+}
